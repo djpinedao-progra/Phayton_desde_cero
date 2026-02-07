@@ -21,8 +21,3 @@ elif operacion =="/":
    print(f"resultado: {numero_1 / numero_2}")
 else:
    print("Operación no válida")
-
-print ("No se si funcionno")
-
- 
-
